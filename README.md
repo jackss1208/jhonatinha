@@ -1,2 +1,2 @@
 # jhonatinha
-trabalho pensamento 
+trabalho pensamento computacional
